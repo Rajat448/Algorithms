@@ -1,7 +1,9 @@
 
 # Steps to contribute⚡
 
-1.Starred the repository
+
+1. Star the repository
+
 
 2. Fork 
 
