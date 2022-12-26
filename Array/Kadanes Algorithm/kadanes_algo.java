@@ -20,6 +20,6 @@ class kadanes_algo {
                 cur_sum = 0;
             }
         }
-        sc.close();
+        scan.close();
     }
 }
